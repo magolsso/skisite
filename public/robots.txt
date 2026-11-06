@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://skisite.pages.dev/sitemap.xml
+Sitemap: https://skiresortguide.info/sitemap.xml
