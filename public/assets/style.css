@@ -11,3 +11,5 @@ th,td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:left;verti
 .verdict{background:var(--card);border-left:4px solid var(--acc);padding:12px 16px;margin:1.2rem 0}
 .card{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:14px 16px;margin:12px 0}
 .small{font-size:.85rem;color:var(--mut)}footer{border-top:1px solid var(--line);margin-top:3rem;padding:20px 0}
+
+.disclosure{font-size:.85rem;color:var(--mut);background:var(--card);border:1px solid var(--line);border-radius:6px;padding:8px 12px;margin:.8rem 0}
